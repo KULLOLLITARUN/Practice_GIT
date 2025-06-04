@@ -10,3 +10,5 @@ You can find the files in github
 => if we changed the existing file .rather than adding the file we can use (git commit -am "message").here am stands for all modified.and a means add.
 
 => Now we don't need to write the git push origin main everytime.we can use (git push). Because we created upstream. -u stands for upstream.
+
+=>Once upstream is created we can use git pull.Instead of using git pull origin main.
