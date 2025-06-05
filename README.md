@@ -12,3 +12,10 @@ You can find the files in github
 => Now we don't need to write the git push origin main everytime.we can use (git push). Because we created upstream. -u stands for upstream.
 
 =>Once upstream is created we can use git pull.Instead of using git pull origin main.
+
+=>Branch commands
+git checkout -b branchname (to create a new branch)
+git checkout branchname (to switch to a branch)
+git branch (to see all branches)
+git branch -d branchname (to delete a branch)
+
